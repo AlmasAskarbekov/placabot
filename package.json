@@ -1,0 +1,32 @@
+{
+  "name": "Placabot",
+  "version": "0.0.2",
+  "description": "Consulta de placas nacionais.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "mongoose": "^4.4.6",
+    "node-telegram-bot-api": "^0.20.1",
+    "public-ip": "^1.1.0",
+    "request": "^2.65.0",
+    "xml2js": "^0.4.16"
+  },
+  "engines": {
+    "node": "5.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/placabot"
+  },
+  "keywords": [
+    "node",
+    "placabot"
+  ],
+  "jshintConfig": {
+    "esnext": true
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Consulta placa de veículos nacionais",
+  "description": "Consulta restrição de roubo e furto em veículos nacionais. Fontes: DENATRAN e SIGO Acre",
+  "repository": "https://github.com/heroku/placabot",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["palca", "denatran", "sigo"],
+  "image": "heroku/nodejs"
+}
